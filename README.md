@@ -109,5 +109,5 @@ jekyll我用过，需要使用ruby，代码确实管理混乱，非常难以理�
 
 * 2017.11.25:apache2 won't start
 After typing the command `service apache2 start`, it reported the error that "(98)Address already in use: make_sock: could not bind to address 0.0.0.0:80", but nothing is running at port 80, actually.
-Then run a `grep -ri listen /etc/apache2`, there were two lines contain "Listen 80" and one of it has a "#". It seemed that it doesn't see it as a comment. We deleted the line with "#" in "/etc/apache2/ports.conf" and apache2 started happily.
+Then run a `grep -ri listen /etc/apache2`, there were two lines contain "Listen 80" and one of them has a "#". It seemed that it doesn't see it as a comment. We deleted the line with "#" in "/etc/apache2/ports.conf" and apache2 started happily.
                     *write down to record what we have deleted*

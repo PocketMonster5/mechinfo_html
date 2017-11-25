@@ -107,3 +107,7 @@ jekyll我用过，需要使用ruby，代码确实管理混乱，非常难以理�
 * 2017.7.4: hexo has a problem displaying images.
 	2017.7.8 update: problem solved. Former ways of displaying image in normal markdown format were all erroneous. However, the command "hexo server" will be able to display images in markdown format so the problem did not pop up. In order for hexo to generate the correct static webpage, the command has to be changed to this format: {% asset_img example.jpg This is an example image %} see https://hexo.io/docs/asset-folders.html for detailed reference.
 
+* 2017.11.25:apache2 won't start
+After typing the command `service apache2 start`, it reported the error that "(98)Address already in use: make_sock: could not bind to address 0.0.0.0:80", but nothing is running at port 80, actually.
+Then run a `grep -ri listen /etc/apache2`, there were two lines contain "Listen 80" and one of them has a "#". It seemed that it doesn't see it as a comment. We deleted the line with "#" in "/etc/apache2/ports.conf" and apache2 started happily.
+                    *write down to record what we have deleted*

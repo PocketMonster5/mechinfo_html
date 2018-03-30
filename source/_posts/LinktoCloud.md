@@ -31,5 +31,5 @@ top: 2
 ### {% link 数理方程 http://cloud.mechinfo.me/index.php/f/46384 %}
 ### {% link 复变函数 http://cloud.mechinfo.me/index.php/f/46416 %}
 ---
-![Study hard, day-day up!](LinktoCloud/studying.png)
+{% asset_img studying.png Study hard, day-day up! %}
 

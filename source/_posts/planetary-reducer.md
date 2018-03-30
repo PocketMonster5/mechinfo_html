@@ -20,13 +20,13 @@ top:
 
    行星减速机是一种具有广泛通用性的新性减速机，内部齿轮采用20CvMnT渗碳淬火和磨齿。整机具有结构尺寸小，输出扭矩大，速比在、效率高、性能安全可靠等特点。
 
-![](planetary_reducer/1.png)
+{% asset_img 1.png %}
 
-![](planetary_reducer/2.jpg)
+{% asset_img 2.png %}
 
-![](planetary_reducer/3.jpg)
+{% asset_img 3.png %}
 
-![](planetary_reducer/4.jpg)
+{% asset_img 4.png %}
 
 **相关概念**     
 
@@ -39,9 +39,9 @@ top:
 
 行星减速机因为结构原因,单级减速最小为3,最大一般不超过10,常见减速比为:3.4.5.6.8.10,减速机级数一般不超过3,但有部分大减速比定制减速机有4级减速.下面是几款行星减速机的结构图！
 
-![](planetary_reducer/5.jpg)
+{% asset_img 5.png %}
 
-![](planetary_reducer/6.png)
+{% asset_img 6.png %}
 
 
 
@@ -50,37 +50,37 @@ top:
 
 从图例1中可以看出，此种组合为降速传动，通常传动比一般为2.5～5，转向相同。
 
-![图例一](planetary_reducer/7.gif)
+{% asset_img 7.png 图例一 %}
 
 2)齿圈固定，行星架主动，太阳轮被动。
 
 从图例2中可以看出，此种组合为升速传动，传动比一般为0.2～0.4，转向相同。
 
-![图例二](planetary_reducer/8.gif)
+{% asset_img 8.png 图例二 %}
 
 3)太阳轮固定，齿圈主动，行星架被动。
 
 从图例3中可以看出，此种组合为降速传动，传动比一般为1.25～1.67，转向相同。
 
-![图例三](planetary_reducer/9.gif)
+{% asset_img 9.png 图例三 %}
 
 4)太阳轮固定，行星架主动，齿圈被动。
 
 从演示中可以看出，此种组合为升速传动，传动比一般为0.6～0.8，转向相同。
 
-![图例四](planetary_reducer/10.gif)
+{% asset_img 10.png 图例四 %}
 
 5)行星架固定，太阳轮主动，齿圈被动。
 
 从演示中可以看出此种组合为降速传动，传动比一般为1.5～4，转向相反。
 
-![图例五](planetary_reducer/11.gif)
+{% asset_img 11.gif 图例五 %}
 
 6)行星架固定，齿圈主动，太阳轮被动。
 
 从演示中可以看出此种组合为升速传动，传动比一般为0.25～0.67， 转向相反。
 
-![图例六](planetary_reducer/12.gif)
+{% asset_img 12.gif 图例六 %}
 
 7)把三元件中任意两元件结合为一体的情况：
 

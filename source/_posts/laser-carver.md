@@ -8,7 +8,7 @@ categories:
 top:
 ---
 ***
-![激光雕刻机](laser-carver/real_figure.jpg)
+{% asset_img real_figure.jpg 激光雕刻机 %}
 
 <!-- more -->
 
@@ -26,8 +26,8 @@ top:
 * 第二步：**连接电源线、打印线和地线**
 
 连接好雕刻机上的电源线、打印线和地线后，才可以打开雕刻机和计算机的电源开关。
-![雕刻机正面](laser-carver/front.png)
-![雕刻机背面](laser-carver/back.png) 
+{% asset_img front.png 雕刻机正面 %}
+{% asset_img back.png 雕刻机背面 %}
 
 * 第三步：**调节光路** 
 

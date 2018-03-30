@@ -7,7 +7,7 @@ categories:
 tags: 科协学习部
 top: 2
 ---
-> ### Mechinfo期待你的加入!!
+> ### Mechinfo期待你的加入!
 
 <!-- more -->
 

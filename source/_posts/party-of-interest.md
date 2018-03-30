@@ -21,7 +21,7 @@ top:
 __参赛项目__：
 
 以机设、电设、挑战杯等赛事为假想目标，要求做出具有前瞻技术、突出创意、优秀性能的成果，鼓励参加相关赛事；
-![](party-of-interest/match.jpg)
+{% asset_img match.jpg %}
 
 __研究性项目__：
 
@@ -57,7 +57,7 @@ __设备支持__：
 ## 联系方式
 | 兴趣团队负责人：许子贤 18813139255 | 微信公众号：sta_dme |
 | :--------------------------------------------------: | :----------------------------: |
-| 申请立项、相关咨询 ![xzx](party-of-interest/xzx_qr_code.jpg)    | 科协活动、科创赛事、技术培训、招新信息 ![sast](party-of-interest/sast_qr_code.jpg) |
+| 申请立项、相关咨询 {% asset_img xzx_qr_code.jpg xzx %}    | 科协活动、科创赛事、技术培训、招新信息 {% asset_img sast_qr_code.jpg sast %} |
 
 #### _附：兴趣团队成立的通知_
-![通知全文](party-of-interest/note.png)
+{% asset_img note.png 通知全文 %}

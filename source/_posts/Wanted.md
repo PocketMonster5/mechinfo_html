@@ -31,5 +31,5 @@ top: 2
 >*有意向者，请在Wechat中戳：王芮:Aray*
 
 <!-- <image src="http://img.juimg.com/tuku/yulantu/131019/328814-131019162P843.jpg" height=100% width=100%> -->
-![](Wanted/Wanted.jpg)
+{% asset_img Wanted.jpg %}
 

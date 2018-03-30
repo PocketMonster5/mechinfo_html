@@ -1,0 +1,17 @@
+---
+title: CLOUD账号申请
+date: 2018-03-30 11:10:53
+tags: 科协学习部
+categories:
+- 友情链接
+top: 2
+---
+
+## 在cloud上拥有自己的账号
+<!-- more -->
+
+
+* 本表格仅作收集信息用，请爱护本系统~
+
+
+**请戳[这里](http://localhost/form.html)**

@@ -60,7 +60,7 @@ jekyll我用过，需要使用ruby，代码确实管理混乱，非常难以理�
 
 	http://localhost:4000
 
-接下来，可以进行一堆修改操作，commit了之后，在自己电脑上：
+接下来，可以进行一堆修改操作，commit了之后（然后要记得push到mechinfoBlog里面），在自己电脑上：
 
 	hexo generate && hexo deploy #生成静态网页，在/public目录下
 	
